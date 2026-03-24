@@ -1,2 +1,2 @@
-# research-reports
-100Creativeの競合調査（デイリー）
+# research-reports-public
+競合情報専用の公開リポジトリ
